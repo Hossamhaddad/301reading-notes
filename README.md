@@ -7,6 +7,6 @@
 
 ## Table of content : 
 1. [SMACSS and Responsive Web Design](https://hossamhaddad.github.io/301reading-notes/class-01)
-
+2. [jQuery and Pair Programming](https://hossamhaddad.github.io/301reading-notes/class-02)
 
 ## For more info contact me :husamhaddad80@gmail.com 
