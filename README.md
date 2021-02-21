@@ -11,4 +11,5 @@
 3. [MUSTACHE and FLEXBOX](https://hossamhaddad.github.io/301reading-notes/class-03)
 4. [ CSS GRID ](https://hossamhaddad.github.io/301reading-notes/class-04)
 5. [ Heroku ](https://hossamhaddad.github.io/301reading-notes/class-05)
+6. [NODE.JS ](https://hossamhaddad.github.io/301reading-notes/class-06)
 ## For more info contact me :husamhaddad80@gmail.com 
