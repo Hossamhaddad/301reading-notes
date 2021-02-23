@@ -14,6 +14,7 @@
 | [ Heroku ](https://hossamhaddad.github.io/301reading-notes/class-05)|
 |[NODE.JS ](https://hossamhaddad.github.io/301reading-notes/class-06)|
 |[SuperAgent](https://hossamhaddad.github.io/301reading-notes/class-07)| 
+|[SQL](https://hossamhaddad.github.io/301reading-notes/class-08)| 
 
 
 ## For more info contact me :husamhaddad80@gmail.com 
