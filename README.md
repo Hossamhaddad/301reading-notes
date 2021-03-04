@@ -21,7 +21,7 @@
 |[EJS Partials](https://hossamhaddad.github.io/301reading-notes/class-12)| 
 |[Sending Form Data](https://hossamhaddad.github.io/301reading-notes/class-13)| 
 |[DATABASE NORMALIZATION](https://hossamhaddad.github.io/301reading-notes/class-14a)| 
-
+|[Diversity and Inclusion](https://hossamhaddad.github.io/301reading-notes/class-15)| 
 ## For more info contact me :husamhaddad80@gmail.com 
 
 
